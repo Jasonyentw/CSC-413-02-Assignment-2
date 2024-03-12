@@ -1,4 +1,4 @@
-# CSC-413-02-Assignment-
+# CSC-413-02-Assignment-2
 Demo Project README
 Introduction
 This is a demo project showcasing a simple Java application. The project includes functionalities related to banking operations, customer authentication, and account management.
