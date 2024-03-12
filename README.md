@@ -30,14 +30,20 @@ Run the BankSystem class:
 
 Locate the BankSystem class in the com.example package.
 Right-click on BankSystem and select Run File or Run Project.
-Observe the output in the console for the demo application's functionality.
+# Bank System Demo Project
 
-Usage
-The demo application simulates a simple banking system with customer authentication, account management, and transaction history.
-Follow the on-screen instructions and console output to understand the operations.
-Contributing
+This project is a demonstration of a simple banking system implemented in Java.
+
+## Usage
+
+Observe the output in the console for the demo application's functionality. The application simulates a simple banking system with customer authentication, account management, and transaction history. Follow the on-screen instructions and console output to understand the operations.
+
+## Contributing
+
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-License
+## License
+
 This project is licensed under the MIT License.
+
 
